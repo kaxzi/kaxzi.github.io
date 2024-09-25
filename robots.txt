@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kaxzi.github.io/DSB/sitemap.DSB.gz
